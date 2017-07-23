@@ -12,7 +12,7 @@ public class HelloWorld {
 		int pp = 1; 
 		
 		System.out.print("1 1 ");
-		for( int i = 1; i <= 14; i++)
+		for( int i = 1; i <= 15; i++)
 		{
 			int n = p + pp;
 			System.out.print(n + " " );
